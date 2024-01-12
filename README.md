@@ -1,6 +1,4 @@
-# 🤔 Philosophers
-
-![Philosophers](https://placekitten.com/800/400)
+# Philosophers 🍴
 
 *I never thought philosophy would be so deadly...*
 
