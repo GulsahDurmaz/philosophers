@@ -12,6 +12,7 @@
 
 <p align="center">
   This project provides a solution to the "Dining Philosophers" problem. Essentially, it models a situation where a group of philosophers is seated at a table. Each philosopher needs a plate of pasta and a fork. However, each philosopher sits between two forks, and two philosophers sharing the same fork cannot eat simultaneously.
+   In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes.
 </p>
 
 # <p align="center"><strong>Installation</strong></p>
