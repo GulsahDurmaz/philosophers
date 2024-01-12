@@ -1,4 +1,7 @@
-# Philosophers 🍴
+<p align="center">
+ # Philosophers 🍴
+</p>
+
 
 *I never thought philosophy would be so deadly...*
 
