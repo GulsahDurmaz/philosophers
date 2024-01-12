@@ -1,6 +1,8 @@
 # <p align="center"><strong>Philosophers 🍴</strong></p>
 
-*I never thought philosophy would be so deadly...*
+<p align="center">
+  <strong>I never thought philosophy would be so <span style="color:red">deadly</span>...</strong>
+</p>
 
 Solution to the Dining Philosophers problem for the 42 cursus project.
 
