@@ -1,5 +1,5 @@
 <p align="center">
- # Philosophers 🍴
+## Philosophers 🍴
 </p>
 
 
