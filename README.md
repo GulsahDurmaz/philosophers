@@ -1,7 +1,7 @@
 # <p align="center"><strong>Philosophers 🍴</strong></p>
 
 <p align="center">
-  <strong>I never thought philosophy would be so <strong>deadly</strong>...</strong>
+  I never thought philosophy would be so <strong>deadly</strong>...
 </p>
 
 <p align="center">
